@@ -39,5 +39,5 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE) for mo
 ---
 
 <p align="center">
- Don with 💜 by Jhonatan Bergmann
+ Done with 💜 by Jhonatan Bergmann
 </p>
