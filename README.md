@@ -26,7 +26,7 @@ Technologies were used:
 1. Clone this repository `git clone https://github.com/JhonatanBergmann/button.change-theme.app.git`
 
 ### 📱 Mobile
-1. Install **Expo** em seu celular.
+1. Install **Expo** on your cell phone.
 1. Install **Expo CLI** with the command `yarn global add expo-cli`
 1. Access the folder *mobile* and give the command `yarn install`
 1. Access the folder again *mobile* and give the command `yarn start`
