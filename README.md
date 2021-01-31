@@ -22,7 +22,7 @@ Technologies were used:
 
 ## ***</>*** How to use the code?
 1. Install **Yarn** on your computer
-1. install **NodeJs**
+1. Install **NodeJs**
 1. Clone this repository `git clone https://github.com/JhonatanBergmann/button.change-theme.app.git`
 
 ### 📱 Mobile
