@@ -29,7 +29,7 @@ Technologies were used:
 1. Install **Expo** em seu celular.
 1. Install **Expo CLI** with the command `yarn global add expo-cli`
 1. Access the folder *mobile* and give the command `yarn install`
-1. Access the folder again *mobile* e dê o comando `yarn start`
+1. Access the folder again *mobile* and give the command `yarn start`
 1. A page will open in the browser with a *QR CODE*, read it with the **Expo**
 
 ## 📝 License
