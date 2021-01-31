@@ -1,5 +1,5 @@
 <h1 align="center">
-  Trocar Tema | Light\Dark
+  Change Theme | Light\Dark
   <br>
 </h1>
 
@@ -7,8 +7,8 @@
   <img src="screenshot/gif.gif" alt="Demo" >
 </p>
 
-## 🌐 Tecnologias Usadas
-Foram usadas essas tecnologias:
+## 🌐 Technologies Used
+Technologies were used:
 
 - [React Native](https://reactnative.dev/)
 - [Yarn](https://yarnpkg.com/)
@@ -20,24 +20,24 @@ Foram usadas essas tecnologias:
 - [styled-components](https://styled-components.com/docs/basics)
 
 
-## ***</>*** Como usar o código?
-1. Instale o **Yarn** em seu computador
-1. Instale o **NodeJs**
-1. Clone este repositório `git clone https://github.com/JhonatanBergmann/button.change-theme.app.git`
+## ***</>*** How to use the code?
+1. Install **Yarn** on your computer
+1. install **NodeJs**
+1. Clone this repository `git clone https://github.com/JhonatanBergmann/button.change-theme.app.git`
 
 ### 📱 Mobile
-1. Instale o **Expo** em seu celular.
-1. Instale o **Expo CLI** com o comando `yarn global add expo-cli`
-1. Acesse a pasta *mobile* e dê o comando `yarn install`
-1. Acesse novamente a pasta *mobile* e dê o comando `yarn start`
-1. Será aberto uma página no navegador com um *QR CODE*, leia-o com o aplicativo do **Expo**
+1. Install **Expo** em seu celular.
+1. Install **Expo CLI** with the command `yarn global add expo-cli`
+1. Access the folder *mobile* and give the command `yarn install`
+1. Access the folder again *mobile* e dê o comando `yarn start`
+1. A page will open in the browser with a *QR CODE*, read it with the **Expo**
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
 
 ---
 
 <p align="center">
- Feito com 💜 by Jhonatan Bergmann
+ Don with 💜 by Jhonatan Bergmann
 </p>
